@@ -1,0 +1,46 @@
+# .NET build output
+bin/
+obj/
+artifacts/
+publish/
+TestResults/
+
+# IDE and user-local state
+.vs/
+.vscode/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Context Studio runtime backups and settings
+.context-studio-backups/
+settings.json
+
+# Logs, temporary files, databases, and local packages
+*.log
+*.tmp
+*.bak
+*.db
+*.sqlite
+*.sqlite3
+*.zip
+*.7z
+*.nupkg
+
+# Secrets and local environment overrides
+.env
+.env.*
+!.env.example
+*.pfx
+*.p12
+*.pem
+*.key
+secrets.json
+appsettings.*.json
+!appsettings.example.json
+
+# Operating-system metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
