@@ -1,0 +1,3 @@
+# Approved product-author metadata occurrence. This global fingerprint binds
+# the exception to one rule, repository-relative file, and line number.
+ContextStudio/ContextStudio.csproj:local-protected-person-name:13
