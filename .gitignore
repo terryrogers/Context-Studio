@@ -46,3 +46,10 @@ Desktop.ini
 .DS_Store
 
 /.tools/
+
+# Private project lifecycle records
+PROJECT.md
+GOALS.md
+STATUS.md
+DECISIONS.md
+HANDOFFS.md
